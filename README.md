@@ -1,5 +1,5 @@
 ```
-а: A
+а: a
 б: b
 ц: c
 ч: ch
@@ -37,3 +37,7 @@
 ```
 
 Bez zhodnyh diaktryk shchob prostishe bylo
+
+## Посилання
+
+<a href="https://www.flaticon.com/free-icons/latin" title="latin icons">Latin icons created by Freepik - Flaticon</a>
